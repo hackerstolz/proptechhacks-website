@@ -22,7 +22,7 @@ require('./../fonts/fonts.styl');
 
 ReactDom.render(
     <Router history={ browserHistory }>
-        <Route name="root" path="/" component={ Layout }>
+        <Route name="root" path="/proptechhacks-website/" component={ Layout }>
             <IndexRoute name="home" component={ Home }/>
             <Route name="home" path="home(#**)" component={ Home }/>
             <Route name="rules" path="rules" component={ Rules }/>
