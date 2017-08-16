@@ -3,30 +3,27 @@ import React from 'react';
 require('./main.styl');
 
 const fridayItems = [
-    ['19:30', 'Get Together'],
-    ['20:00', 'Teambuilding and Ideation'],
-    ['', 'Moderation Michael Metzger <a href="http://www.michaelmetzger.de" target="_blank">www.michaelmetzger.de</a>']
-
+    ['19:30', 'Get Together & Drinks']
 ];
 
 const saturdayItems = [
-    ['08:30', 'Registration and Snacks'],
-    ['10:00', 'Kick Off and Challenge Presentations'],
-    ['11:00', 'Various Workshops'],
-    ['11:30', 'Start Hacking!'],
-    ['13:00', 'Yummy Lunch'],
-    ['19:00', 'Dinner'],
-    ['22:00', 'Mario Kart Championship'],
-    ['24:00', 'Late Night Snack']
+  ['09:00', 'Registration and Breakfast'],
+  ['09:30', 'Kick Off and Welcome'],
+  ['10:00', 'Start Hacking'],
+  ['13:00', 'Yummy Lunch'],
+  ['19:00', 'Dinner'],
+  ['22:00', 'Night Hacking'],
+  ['24:00', 'Late Night Snack']
 ];
 
 const sundayItems = [
-    ['08:30', 'Breakfast'],
-    ['09:00', 'Coding Finale'],
-    ['12:00', 'DEADLINE and Lunch'],
-    ['13:00', 'Pitches'],
-    ['15:00', 'Craft Beer Testing'],
-    ['16:00', 'Prize Ceremony']
+    ['09:30', 'Breakfast'],
+    ['10:00', 'Coding Finale'],
+    ['12:00', 'DEADLINE'],
+    ['12:30', 'Pitches'],
+    ['13:30', 'Lunch'],
+    ['14:30', 'Award Ceremony'],
+    ['15:00', 'Prize Ceremony']
 ];
 
 
