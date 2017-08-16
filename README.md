@@ -50,3 +50,5 @@ How should the fonts be loaded? [Blog post](https://css-tricks.com/loading-web-f
 OffCanvas: https://www.codementor.io/reactjs/tutorial/how-to-build-a-sliding-menu-using-react-js-and-less-css
 
 Loading effects: http://michalsnik.github.io/aos/
+
+.
