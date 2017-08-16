@@ -36,7 +36,7 @@ ReactDom.render(
             <Redirect from="station-05-sponsors" to="home#sponsors"/>
             <Redirect from="station-06-schedule" to="home#schedule"/>
             <Redirect from="station-07-faq" to="home#faq"/>
-            <Redirect from="*" to="/"/>
+            <Redirect from="*" to="/proptechhacks-website/"/>
         </Route>
     </Router>,
     document.getElementById('app')
