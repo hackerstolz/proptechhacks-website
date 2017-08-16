@@ -31,7 +31,7 @@ npm run build
 
 ## Deployment
 
-Deployment via the a local build and the `gh-pages` branch.
+Deployment via the a local build and commiting the `docs` directory, which will be served by Github Pages.
 
 ## Live reloading & dev
 

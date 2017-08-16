@@ -19,7 +19,7 @@ module.exports = [
             ]
         },
         plugins: [
-            new CleanWebpackPlugin('dist'),
+            new CleanWebpackPlugin('docs'),
             new ExtractTextPlugin("css/default.css")
         ],
         devServer: {
