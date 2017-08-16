@@ -1,0 +1,54 @@
+.why-mobility
+  .picture-box__container
+    display flex
+    justify-content center
+    flex-wrap wrap
+    .picture-box__item
+      flex 0 0 auto
+      margin 1vw
+      width 400px
+
+
+      .picture-box__image-container
+        height 280px
+      img
+        width 400px
+        &.picture-small
+          width 380px
+        @media screen and (min-width: $breakPointSmall) and (max-width $breakPointMedium)
+          flex 1 0 100%
+          width 100vw
+          max-width none
+
+      iframe
+        width 400px
+        height 260px
+        margin-top -4px
+        @media screen and (max-width: $breakPointSmall)
+          width 100vw
+      a
+        margin 0
+        padding 0
+        text-transform none
+      .picture-box__image-desc
+        padding 30px 0
+        max-width 90vw
+        margin auto
+        font-size 17px
+        opacity 0.7
+    @media screen and (min-width: $breakPointSmall) and (max-width $breakPointMedium)
+      .picture-box__item
+        flex 1 0 100%
+        width 400px
+        max-width none
+        img, iframe
+          width 400px
+          max-width none
+    @media screen and (max-width: $breakPointSmall)
+      .picture-box__item
+        flex 1 0 100%
+        width 100%
+        max-width none
+        img, iframe
+          width 100%
+          max-width none

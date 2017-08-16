@@ -1,0 +1,56 @@
+$hacker-blue = #3B00FF
+$blue-overlay-text = #5139F5
+$fancy-font-blue = #004EFB;
+$footer-height-lg = 55px;
+$footer-height-medium = 40px;
+$dark-footer-gray = #000000;
+$selected-link-gray = #909090;
+$unselected-link-gray = #e3e3e3;
+
+$menu-width = 250px;
+
+// Responsive
+
+$breakPointSmall = 420px
+$breakPointMedium = 614px
+$breakPointBig = 1000px
+
+.only-small-screen
+  display none
+
+@media screen and (max-width: $breakPointMedium)
+  .only-small-screen
+    display inherit
+
+  .only-big-screen
+    display none
+
+// Default Mixins
+
+vendor(prop, args)
+  -webkit-{prop} args
+  -moz-{prop} args
+  -ms-{prop} args
+  -o-{prop} args
+  {prop} args
+      
+animation()
+  vendor('animation', arguments)
+
+border-box()
+  vendor('box-sizing', arguments)
+
+border-radius()
+  vendor('border-radius', arguments)
+
+box-shadow()
+  vendor('box-shadow', arguments)
+
+transition()
+  vendor('transition', arguments)
+
+transform()
+  vendor('transform', arguments)
+
+transform-origin()
+  vendor('transform-origin', arguments)
