@@ -3,8 +3,7 @@ import Station01 from "./../Station-01-Hero";
 import Station02 from "./../Station-02-Stay-Away";
 import Station03 from "./../Station-03-Get-Your-Ticket";
 import ExtraInfos from "./../Station-03-Extra-Infos";
-import Station04 from "./../Station-04-Why-Mobility";
-import Station05 from "./../Station-05-Sponsors";
+import Station04 from "./../Station-04-Why-PropTech";
 import Station06 from "./../Station-06-Prizes";
 import Station07 from "./../Station-07-Jury";
 import Station08 from "./../Station-08-Schedule";
@@ -24,7 +23,7 @@ class Home extends React.Component {
                 <ExtraInfos />
                 <Station03 />
                 <Station04 />
-                <Station05 />
+                {/*<Station05 />*/}
                 <Station06 />
                 <Station07 />
                 <Station08 />
