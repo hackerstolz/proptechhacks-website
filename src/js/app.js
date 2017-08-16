@@ -7,6 +7,8 @@ import Rules from "./views/Exta-Page-Rules/";
 import Devpost from "./views/Extra-Page-Create-A-Devpost-Page";
 
 // Assets
+require('./../CNAME');
+
 require('./../index.html');
 require('./../sitemap.xml');
 require('./../robots.txt');
