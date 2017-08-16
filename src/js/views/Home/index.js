@@ -20,7 +20,7 @@ class Home extends React.Component {
             <div className="content-wrapper">
                 <Station01 />
                 <Station02 />
-                <ExtraInfos />
+                {/*<ExtraInfos />*/}
                 <Station03 />
                 <Station04 />
                 {/*<Station05 />*/}

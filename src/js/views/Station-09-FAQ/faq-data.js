@@ -9,11 +9,11 @@ let data = [
         header: "Do I need to pay for the tickets?",
         text: "No. But: You will pay 15€ for the tickets on eventbrite, but you will get 15€ cashback when you show up."
     },
-    {
+    /*{
         id: 9,
         header: "Are there travel cost reimbursements?",
         text: "Yes. there is! Please submit the this <a href='https://goo.gl/forms/BUucIhhRkwFERYuV2' target='_blank'> form </a> and we will come back to you for details!"
-    },
+    },*/
     {
         id: 3,
         header: "Will there be food?",
@@ -45,15 +45,20 @@ let data = [
         text: "One organisation to rule them all, no no just kidding. We are a non-profit that wants to contribute to an active IT community in Germany. You can find more info on <a href='http://www.hackerstolz.de'>www.hackerstolz.de</a>"
     },
     {
+        id: 9,
+        header: "Who is Anyon?",
+        text: "TODO"
+    },
+    {
         id: 10,
         header: "Can I code something before the hackathon?",
         text: "No. As we want to keep it as fair as possible everyone gets the same 24 hours to work on their projects. We will check the source code"
     },
-    {
+    /*{
         id: 11,
         header: "Where can I find the full rules?",
         text: "Check out our page on <a href='https://mobility-hacks.devpost.com/' target='_blank'> devpost</a>, we will have the rules there on time."
-    },
+    },*/
 ];
 
 export default data;
