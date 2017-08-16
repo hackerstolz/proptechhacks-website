@@ -1,11 +1,11 @@
 {
-  "name": "mobility-hacks-website",
-  "description": "Website for www.mobility-hacks.de",
+  "name": "proptechhack-website",
+  "description": "Website for www.proptechhackhacks.de",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hackerstolz/mobilityhacks-website"
+    "url": "https://github.com/hackerstolz/proptechhack-website"
   },
   "scripts": {
     "start": "webpack-dev-server --inline --watch",

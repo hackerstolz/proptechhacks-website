@@ -11,12 +11,6 @@ npm run start
 open http://localhost:8080
 ```
 
-## Infos
-
-* [Stage](http://stage.mobility-hacks.de/)
-* You can find the mocks here: https://marvelapp.com/15chihf
-* And here is the Trello board for organising: https://trello.com/b/Kf4aPWQr/berlin-hackathon-website
-
 ## TechStack
 
 - npm as packager manager
@@ -26,10 +20,10 @@ open http://localhost:8080
 
 ## Building
 Master/Live:
-[![Build Status](https://travis-ci.org/hackerstolz/mobilityhacks-website.svg?branch=master)](https://travis-ci.org/hackerstolz/mobilityhacks-website)
+[![Build Status](https://travis-ci.org/hackerstolz/proptechhacks-website.svg?branch=master)](https://travis-ci.org/hackerstolz/proptechhacks-website)
 
 Stage/Dev:
-[![Build Status](https://travis-ci.org/hackerstolz/mobilityhacks-website.svg?branch=dev)](https://travis-ci.org/hackerstolz/mobilityhacks-website)
+[![Build Status](https://travis-ci.org/hackerstolz/proptechhacks-website.svg?branch=dev)](https://travis-ci.org/hackerstolz/proptechhacks-website)
 
 ```bash
 npm run build
@@ -37,10 +31,7 @@ npm run build
 
 ## Deployment
 
-The site will be deployt on every push to master.
-
-* ``dev`` branch goes to stage.mobility-hacks.de
-* ```master`` goes to prod --> mobility-hacks.de
+Deployment via the a local build and the `gh-pages` branch.
 
 ## Live reloading & dev
 
