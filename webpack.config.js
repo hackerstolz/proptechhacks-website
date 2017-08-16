@@ -16,6 +16,7 @@ module.exports = [
                 {test: /\.css$/, loader: ExtractTextPlugin.extract('style', 'css?sourceMap,minimize')},
                 {test: /\.(png|jpe?g|gif|svg|woff|woff2|ttf|eot|ico)$/, loader: 'file?name=app/[path][name].[ext]?[hash]&context=./src/'},
                 {test: /\.(html|xml|txt)$/, loader: 'file?name=[path][name].[ext]?[hash]&context=./src/'},
+                {test: /CNAME$/, loader: 'file?name=[path][name]?[hash]&context=./src/'},
             ]
         },
         plugins: [
