@@ -6,12 +6,9 @@ class Mobility extends React.Component {
         return (
             <div id="why-mobility" className="content-container wide why-mobility">
                 <div className="textbox">
-                    <h1>WHY MOBILITY HACKS?</h1>
+                    <h1>Why propTech Hacks?</h1>
                     <p className="small-para">
-                        Watching the change driving by while waiting for
-                        the bus is not as good as changing mobility itself.
-                        Hop on and create incredible prototypes that help
-                        forming the vision of future mobility!
+                        From online brokerage to shared houses, the way we interact with buildings is changing. This process will continue to redefine the way we live. Are you also constantly looking for ways to improve it? Do you love facing challenges? Coding, no sleep and lots of coffee as well? Especially together? 
                     </p>
                     <h2>
 

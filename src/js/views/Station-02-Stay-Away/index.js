@@ -7,11 +7,11 @@ class StayAway extends React.Component {
             <div className="stayaway-container">
                 <div className="stayaway-item">
                     <img src={require('./img/mario.svg')}/>
-                    <div className="stayaway-desc">Boring Mario K.O. Championship</div>
+                    <div className="stayaway-desc">Boring Mario Kart Championship</div>
                 </div>
                 <div className="stayaway-item">
-                    <img src={require('./img/girls.svg')}/>
-                    <div className="stayaway-desc">Supported by Girl Hacker Groups</div>
+                    <img src={require('./img/beer.svg')}/>
+                    <div className="stayaway-desc">Supported by Hackerstolz</div>
                 </div>
                 <div className="stayaway-item" id="specialitem">
                     <img id="line1" src={require('./img/line.svg')}/>
@@ -20,14 +20,12 @@ class StayAway extends React.Component {
                 </div>
                 <div className="stayaway-item">
                     <img src={require('./img/beer.svg')}/>
-                    <div className="stayaway-desc">Unhealthy
-                        craft beer + tasting
+                    <div className="stayaway-desc">Beer
                     </div>
                 </div>
                 <div className="stayaway-item">
                     <img src={require('./img/prize.svg')}/>
-                    <div className="stayaway-desc">Badly made Challenge
-                        Prize Trophies
+                    <div className="stayaway-desc">Nice Prizes
                     </div>
                 </div>
             </div>
