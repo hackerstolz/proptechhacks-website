@@ -22,7 +22,7 @@ require('./../fonts/fonts.styl');
 
 ReactDom.render(
     <Router history={ browserHistory }>
-        <Route name="root" path="/proptechhacks-website/" component={ Layout }>
+        <Route name="root" path="/" component={ Layout }>
             <IndexRoute name="home" component={ Home }/>
             <Route name="home" path="home(#**)" component={ Home }/>
             <Route name="rules" path="rules" component={ Rules }/>
@@ -36,7 +36,7 @@ ReactDom.render(
             <Redirect from="station-05-sponsors" to="home#sponsors"/>
             <Redirect from="station-06-schedule" to="home#schedule"/>
             <Redirect from="station-07-faq" to="home#faq"/>
-            <Redirect from="*" to="/proptechhacks-website/"/>
+            <Redirect from="*" to="/"/>
         </Route>
     </Router>,
     document.getElementById('app')
