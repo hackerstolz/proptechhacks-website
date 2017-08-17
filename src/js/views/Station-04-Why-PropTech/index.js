@@ -4,11 +4,11 @@ require('./main.styl');
 class Mobility extends React.Component {
     render() {
         return (
-            <div id="why-mobility" className="content-container wide why-mobility">
+            <div id="why-proptech" className="content-container wide why-mobility">
                 <div className="textbox">
                     <h1>Why propTech Hacks?</h1>
                     <p className="small-para">
-                        From online brokerage to shared houses, the way we interact with buildings is changing. This process will continue to redefine the way we live. Are you also constantly looking for ways to improve it? Do you love facing challenges? Coding, no sleep and lots of coffee as well? Especially together? 
+                        From online brokerage to shared houses, the way we interact with buildings is changing. This process will continue to redefine the way we live. Are you also constantly looking for ways to improve it? Do you love facing challenges? Coding, no sleep and lots of coffee as well? Especially together?
                     </p>
                     <h2>
 

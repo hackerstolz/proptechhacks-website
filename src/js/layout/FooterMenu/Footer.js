@@ -67,8 +67,8 @@ class Footer extends React.Component {
                     <div className="offCanvasMenu__container-content">
                         <Link spy={true} smooth={true} to="home">#</Link>
                         <Link spy={true} smooth={true} to="get-your-ticket" activeClass="link--active">Tickets</Link>
-                        <Link spy={true} smooth={true} to="why-mobility" activeClass="link--active">Why Mobility</Link>
-                        <Link spy={true} smooth={true} to="sponsors" activeClass="link--active">Sponsors</Link>
+                        <Link spy={true} smooth={true} to="why-proptech" activeClass="link--active">Why PropTech</Link>
+                      { /*<  <Link spy={true} smooth={true} to="sponsors" activeClass="link--active">Sponsors</Link> */ }
                         <Link spy={true} smooth={true} to="prizes" activeClass="link--active">Prizes & Jury</Link>
                         <Link spy={true} smooth={true} to="schedule" activeClass="link--active">Schedule</Link>
                         <Link spy={true} smooth={true} to="faq" activeClass="link--active">FAQ</Link>
@@ -88,9 +88,9 @@ class Footer extends React.Component {
                         </Link>
                         <Link spy={true} smooth={true} to="home">#</Link>
                         <Link spy={true} smooth={true} to="get-your-ticket" activeClass="link--active">Tickets</Link>
-                        <Link spy={true} smooth={true} to="why-mobility" activeClass="link--active">Why Mobility</Link>
+                        <Link spy={true} smooth={true} to="why-proptech" activeClass="link--active">Why PropTech</Link>
                         <Link spy={true} smooth={true} to="sponsors" activeClass="link--active">Sponsors</Link>
-                        <Link spy={true} smooth={true} to="prizes" activeClass="link--active">Prizes & Jury</Link>
+                        { /*<Link spy={true} smooth={true} to="prizes" activeClass="link--active">Prizes & Jury</Link>*/}
                         <Link spy={true} smooth={true} to="schedule" activeClass="link--active">Schedule</Link>
                         <Link spy={true} smooth={true} to="faq" activeClass="link--active">FAQ</Link>
                     </div>

@@ -31,11 +31,10 @@ ReactDom.render(
             <Route name="devpost" path="how-to-create-a-devpost-project" component={ Devpost }/>
             <Redirect from="get-your-ticket" to="home#get-your-ticket"/>
             <Redirect from="contact" to="home#organizers"/>
-            <Redirect from="station-01-why-mobility" to="home#why-mobility"/>
+            <Redirect from="station-01-why-proptech" to="home#why-proptech"/>
             <Redirect from="station-02-prizes-and-criteria" to="home#prizes"/>
             <Redirect from="station-03-jury" to="home#jury"/>
             <Redirect from="station-04-organizers" to="home#organizers"/>
-            <Redirect from="station-05-sponsors" to="home#sponsors"/>
             <Redirect from="station-06-schedule" to="home#schedule"/>
             <Redirect from="station-07-faq" to="home#faq"/>
             <Redirect from="*" to="/"/>

@@ -55,14 +55,14 @@ class Home extends React.Component {
                     <ul>
                         <li>
                             date:<br />
-                            saturday, 03/12/16<br />
-                            sunday, 04/12/16
+                            saturday, 23/09/17<br />
+                            sunday, 24/09/17
                         </li>
                         <li>
                             location:<br />
-                            spielfeld digital hub<br />
-                            skalitzer str. 85/86<br />
-                            10993 berlin
+                            anyon headquarters<br />
+                            chausseestrasse 111<br />
+                            10115 berlin
                         </li>
 
                         <li className="hidden">

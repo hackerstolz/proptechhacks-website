@@ -3,7 +3,8 @@ import React from 'react';
 require('./main.styl');
 
 const fridayItems = [
-    ['19:30', 'Get Together & Drinks']
+    ['19:30', 'Hello by Anyon'],
+    ['19:35', 'Get Together & Drinks']
 ];
 
 const saturdayItems = [
@@ -22,8 +23,7 @@ const sundayItems = [
     ['12:00', 'DEADLINE'],
     ['12:30', 'Pitches'],
     ['13:30', 'Lunch'],
-    ['14:30', 'Award Ceremony'],
-    ['15:00', 'Prize Ceremony']
+    ['14:30', 'Award Ceremony']
 ];
 
 

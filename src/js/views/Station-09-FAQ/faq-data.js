@@ -27,7 +27,7 @@ let data = [
     {
         id: 5,
         header: "What if I've never been to a hackathon?",
-        text: "Don’t worry. Mobility{hacks} is specifically designed to accommodate beginners as well as people with more experience. If you've never been to a hackathon, or are just getting started coding: Don't fear! We will be holding info sessions, team-finding events, and will help you in person if necessary. It will be a safe environment. There will also be workshops during the hackathon, like a pitch and presentation training from one our partners."
+        text: "Don’t worry. propTech{Hacks} is specifically designed to accommodate beginners as well as people with more experience. If you've never been to a hackathon, or are just getting started coding: Don't fear! We will be holding info sessions, team-finding events, and will help you in person if necessary. It will be a safe environment. There will also be workshops during the hackathon, like a pitch and presentation training from one our partners."
     },
     {
         id: 6,
