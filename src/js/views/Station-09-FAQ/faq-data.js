@@ -7,7 +7,7 @@ let data = [
     {
         id: 2,
         header: "Do I need to pay for the tickets?",
-        text: "No. But: You will pay 15€ for the tickets on eventbrite, but you will get 15€ cashback when you show up."
+        text: "No. But: You will pay 10€ for the tickets on eventbrite, but you will get 10€ cashback when you show up."
     },
     /*{
         id: 9,
