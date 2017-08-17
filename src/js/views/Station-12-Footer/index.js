@@ -15,8 +15,7 @@ class Footer extends React.Component {
                         <div className="footer__list">
                             <Link spy={true} smooth={true} to="home">Home</Link>
                             <Link spy={true} smooth={true} to="get-your-ticket">Tickets</Link>
-                            <Link spy={true} smooth={true} to="why-mobility">Why Mobility</Link>
-                            <Link spy={true} smooth={true} to="sponsors">Sponsors</Link>
+                            <Link spy={true} smooth={true} to="why-proptech">Why PropTech</Link>
                             <Link spy={true} smooth={true} to="prizes">Prizes</Link>
                             <Link spy={true} smooth={true} to="prizes">Jury</Link>
                             <Link spy={true} smooth={true} to="schedule">Schedule</Link>

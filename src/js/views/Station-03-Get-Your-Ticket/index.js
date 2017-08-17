@@ -9,16 +9,17 @@ class GetYourTicket extends React.Component {
                 <div className="textbox">
                     <h1>Get your ticket now!</h1>
                     <br />
-                    <p>Talk to evenbrite at the counter. Please note that you get 15€ cashback at the event!</p>
+                    <p>Talk to evenbrite at the counter. Please note that you get 10€ cashback at the event!</p>
                 </div>
 
-                <a href="//www.eventbrite.de/e/mobilityhacks-hackathon-about-the-future-of-mobility-tickets-27795158066" target="_blank">
+                <a href="//www.eventbrite.com/e/proptechhacks-tickets-36886966911#tickets" target="_blank">
                     <div className="small-button">Go to Eventbrite</div>
                 </a>
 
                 <div className="eventbrite-loading">Loading...</div>
 
-                <iframe src="//eventbrite.co.uk/tickets-external?eid=27795158066&ref=etckt"
+
+                <iframe src="//eventbrite.co.uk/tickets-external?eid=36886966911&ref=etckt"
                         frameBorder="1"
                         marginHeight="5"
                         marginWidth="5"
