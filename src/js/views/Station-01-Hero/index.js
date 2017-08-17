@@ -43,9 +43,9 @@ class Home extends React.Component {
         return (
             <div id="home" className="content-container home">
                 <div className="startseite-logo__container">
-                    <img className="startseite-logo__background-image" src={require('./img/splash_icon_background.svg')}/>
+                    <img className="startseite-logo__background-image" src={require('./img/circling-thing.svg')}/>
                     <div className="startseite-logo__img_wrap">
-                        <img className="startseite-logo__logo-img" src={require('./img/mobility_logo.svg')}/>
+                        <img className="startseite-logo__logo-img" src={require('./img/propTech-hacks-logo-white.svg')}/>
                         <div className="startseite-logo__button only-lg">
                         </div>
                     </div>
