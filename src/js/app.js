@@ -12,7 +12,7 @@ require('./../CNAME');
 require('./../index.html');
 require('./../sitemap.xml');
 require('./../robots.txt');
-require('./../website_teaser.jpg');
+require('./../website_teaser.png');
 
 require('!file?name=[path][name].[ext]?[hash]&context=./src/!./../.htaccess');
 require('!file?name=[path][name].[ext]?[hash]&context=./src/!./../favicon.ico');
