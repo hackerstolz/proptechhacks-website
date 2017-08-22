@@ -49,7 +49,7 @@ class FAQ extends React.Component {
             <div id="faq" className="faq wide content-container">
                 <h1>FAQ</h1>
                 <p>You still have some questions? Get in contact with us!</p>
-                <h5><i>#</i>mobilityhacks</h5>
+                <h5><i>#</i>proptechhacks</h5>
                 <p>
                     <a href="https://www.facebook.com/events/842521752516067/"
                        className="social-link"
@@ -59,7 +59,7 @@ class FAQ extends React.Component {
                        className="social-link"
                        target="_blank">Twitter</a>
                     <span> | </span>
-                    <a href="mailto:hello@mobility-hacks.de"
+                    <a href="mailto:info@hackerstolz.de"
                        className="social-link"
                        target="_blank">Mail</a>
                 </p>

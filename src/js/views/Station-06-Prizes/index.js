@@ -12,7 +12,7 @@ class Prizes extends React.Component {
                 <div className="circle-image__container">
                     <div className="circle-image__item">
                         <img className="circle-image" src={require('./prizes/logo_prize1.svg')}/>
-                        <p className="image-text">Best propTech Hack and Goodies</p>
+                        <p className="image-text">Best propTech Hack</p>
                         <p className="image-text--line2">500 EUR and Goodies</p>
                     </div>
                     <div className="circle-image__item">
