@@ -11,7 +11,7 @@ class Organizers extends React.Component {
                     the joy we had at other events. So we decided to host our own.
                     <br />
                     <br />
-                    <a href="mailto:hello@proptechhacks.de">SEND US AN EMAIL</a>
+                    <a href="mailto:hello@anyon.com">SEND US AN EMAIL</a>
                 </p>
                 <div className="sponsor-logos">
                   <div className="full-image__container">
