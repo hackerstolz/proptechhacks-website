@@ -47,7 +47,7 @@ let data = [
     {
         id: 9,
         header: "Who is Anyon?",
-        text: "TODO"
+        text: "Anyon is an ecosystem of passionate people transforming the real estate industry with technology. Based in Berlin, our team builds and invests in property technology. More: <a href='http://www.anyon.com'>www.anyon.com</a> "
     },
     {
         id: 10,

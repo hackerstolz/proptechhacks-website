@@ -8,7 +8,7 @@ class Footer extends React.Component {
             <div id="footer" className="footer wide content-container">
                 <div className="footer__row">
                     <div className="footer__column col1">
-                        <img src={require('./images/mobility-hacks-ci-logo.svg')}/>
+                        <img src={require('./images/anyon-logo-white.png')}/>
                     </div>
                     <div className="footer__column col2 col-with-text not-xs">
                         <h1>sitemap</h1>
