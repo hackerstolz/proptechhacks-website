@@ -34,7 +34,7 @@ class Footer extends React.Component {
                     <div className="footer__column col4 col-with-text not-xs">
                         <h1>initiators</h1>
                         <div className="footer__list">
-                            <a href="http://www.hackerstolz.de" target="_blank">HackerStolz e.V.</a>
+                            <a href="http://www.hackerstolz.de" target="_blank">Hackerstolz e.V.</a>
                             <a href="mailto:info@hackerstolz.de">info@hackerstolz.de</a>
                         </div>
                     </div>
