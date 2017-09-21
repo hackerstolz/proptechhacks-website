@@ -13,30 +13,23 @@ class Jury extends React.Component {
                 <div className="circle-image__container">
 
                     <div className="circle-image__item">
-                        <img className="circle-image" src={require('./jury/jury-head.png')}/>
-                        <p className="image-text-name">CTO</p>
-                        <p className="image-text-job">Leanest Startup in Berlin</p>
+                        <img className="circle-image" src={require('./jury/iris_broese_bw.png')}/>
+                        <p className="image-text-name">Iris Bröse</p>
+                        <p className="image-text-job">Project Manager Startups Bitkom e.v. </p>
                         <p className="image-text-desc not-xs">  </p>
                     </div>
 
                     <div className="circle-image__item">
-                        <img className="circle-image" src={require('./jury/jury-head.png')}/>
-                        <p className="image-text-name">PropTech Expert</p>
-                        <p className="image-text-job">Real Estate and Partners</p>
+                        <img className="circle-image" src={require('./jury/christian_boehlke_bw.png')}/>
+                        <p className="image-text-name">Christian Böhlke</p>
+                        <p className="image-text-job">CTO Anyon</p>
                         <p className="image-text-desc not-xs">  </p>
                     </div>
 
                     <div className="circle-image__item">
-                        <img className="circle-image" src={require('./jury/jury-head.png')}/>
-                        <p className="image-text-name">Venture Capitalist</p>
-                        <p className="image-text-job">He will invest in the good stuff</p>
-                        <p className="image-text-desc not-xs"></p>
-                    </div>
-
-                    <div className="circle-image__item">
-                        <img className="circle-image" src={require('./jury/jury-head.png')}/>
-                        <p className="image-text-name">Tech Evangelist</p>
-                        <p className="image-text-job">She knows everything and everyone</p>
+                        <img className="circle-image" src={require('./jury/lukas_bw.png')}/>
+                        <p className="image-text-name">Lukasz Wojtusiak</p>
+                        <p className="image-text-job">Lead Product Manager Minodes</p>
                         <p className="image-text-desc not-xs"></p>
                     </div>
 
